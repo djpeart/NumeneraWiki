@@ -1,0 +1,7 @@
+Experience points (XP) are rewards given to players when the GM intrudes on the story with a new and unexpected challenge (an event called a GM intrusion). For example, in the middle of combat, the GM might inform the player that they drop their weapon. However, to intrude in this manner, the GM must award the player 2 XP. The rewarded player, in turn, must immediately give one of those XP to another player and justify the gift (perhaps the other player had a good idea, told a funny joke, performed an action that saved a life, and so on).
+
+Alternatively, the player can refuse the GM intrusion. If they do so, they don’t get the 2 XP from the GM, and they must also spend 1 XP that they already have. If the player has no XP to spend, they can’t refuse the intrusion. 
+
+The GM can also give players XP between sessions as a reward for recovering interesting artifacts or making discoveries during an adventure. You don’t earn XP for killing foes or overcoming standard challenges in the course of play. Discovery is the soul of Numenera.
+
+Experience points are used primarily for character advancement (for details, see Creating Your Character), but a player can also spend 1 XP to reroll any die roll and take the better of the two rolls.  

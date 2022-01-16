@@ -1,0 +1,5 @@
+As explained in Chapter 1: Welcome to the Ninth World, cyphers are a type of numenera that have a single minor use. A character can carry cyphers and use them during the game. You can’t bear many cyphers at a time because a large number of these weird items emit radiation or dangerous chemicals that don’t mix well. Gathering cyphers together in one place is extraordinarily unhealthy.
+
+Characters will find new cyphers frequently in the course of play, so players shouldn’t hesitate to use their cypher abilities. Because cyphers are always different, the characters will always have new special powers to try.
+
+Most cyphers are as simple to use as swallowing a pill, flipping a switch on a handheld device, or throwing a bomb. Some are more complex, with multiple buttons, switches, knobs, keypads, touchscreen controls, wires, and so on, and may take longer to understand, but otherwise they are still one-use items.

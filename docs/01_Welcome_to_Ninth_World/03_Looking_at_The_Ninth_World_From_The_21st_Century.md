@@ -1,0 +1,11 @@
+The Ninth World is a science-fantasy setting approximately a billion years in the future. The people of the world dwell amid the flotsam of impossible ultratech of eight prior civilizations and call it magic. Unimaginably huge machines lie beneath the earth, and satellites orbit high above, transmitting a web of data and free energy. Nanotech, gravitic technology, genetic engineering, spatial warping, and superdense polymers allowed the inhabitants of the previous worlds to reshape the planet. Mass and energy were theirs to command.
+
+In many ways, the Ninth World is a medieval fantasy setting without the historicity. When people who haven’t done a lot of homework on the dark ages run a traditional fantasy game, they often insert modern sensibilities or developments such as democracy, hygiene, or matches. But in the Ninth World, these things, and more, make sense. Characters can have rain slickers, ink pens, zippers, and plastic bags, all left over from the prior eras (or fashioned from leavings of the past). They can understand how illnesses are transmitted or how socialism works. They can know that the earth revolves around the sun and be aware of other “anachronistic” bits of knowledge.
+
+On the other hand, characters in Numenera don’t refer to weapons as “guns” or to vehicles as “cars.” The technology in the Ninth World is too advanced and too alien for such terminology to have endured. Using 21stcentury terms for weapons and vehicles is as inappropriate as using medieval terms. The numenera is weird—much of it wasn’t created by humans or for humans. It isn’t designed or presented in any way that might be familiar to the players or the characters. Only through experimentation, player insight, and  character skill can the player characters (PCs) identify, and possibly use, what they find.
+
+Perhaps even more important, the artifacts, cyphers, and oddities that characters use probably aren’t serving their original purpose. The explosive cypher that a character tosses at an enemy might have been the power source for a vehicle. The force field the enemy uses to protect herself from the blast might have been designed to contain the radiation of the fuel rods in a miniature nuclear reactor.
+
+Welcome to the Ninth World, where every
+discovery might save you—or kill you. But you
+won’t know until you try.
